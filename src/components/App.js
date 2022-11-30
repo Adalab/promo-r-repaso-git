@@ -35,7 +35,6 @@ function App() {
 
   const holaPerris = () => {
     console.log('perris Adalabers');
-    
   };
 
   const handleClickNewAdalaber = (ev) => {
@@ -146,7 +145,9 @@ function App() {
             </select>
           </label>
         </form>
-        <p>Holaaaa maricarmenes</p>
+        const holaPerris = () => {
+    console.log('perris Adalabers');
+  };
         <section className="data">
           <table className="table">
             <thead>
