@@ -145,7 +145,7 @@ function App() {
             </select>
           </label>
         </form>
-        <p>Holaaaa maricarmenes os quiero mucho a todas :) </p>
+        <p>Hola mis perris Maricarmenes os quiero mucho a todas </p>
         <section className="data">
           <table className="table">
             <thead>
