@@ -144,10 +144,8 @@ function App() {
               <option value="Miguel">maria</option>
             </select>
           </label>
-        </form>
-        const holaPerris = () => {
-    console.log('perris Adalabers');
-  };
+      </form>
+    <p>Hola mis perris queridas</p> 
         <section className="data">
           <table className="table">
             <thead>
