@@ -131,7 +131,7 @@ function App() {
             <thead>
               <tr>
                 <th>Nombre</th>
-                <th>Tutora</th>
+                <th>Super Tutora</th>
                 <th>Especialidad</th>
               </tr>
             </thead>
@@ -177,7 +177,7 @@ function App() {
             </label>
             <label className="add__label">
               <button onClick={handleClickNewAdalaber} className="form__btn">
-                Añadir una nueva Adalaber
+                Añadir una nueva luchadora de ramas
               </button>
             </label>
           </form>
