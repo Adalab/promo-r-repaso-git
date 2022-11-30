@@ -138,8 +138,8 @@ function App() {
               id="counselor"
             >
               <option value="">Todes</option>
-              <option value="Yanelis"maripuri</option>
-              <option value="Dayana">maricarmen</option>
+              <option value="Yanelis"> maripuri querida</option>
+              <option value="Dayana">maricarmen querida</option>
               <option value="Iván">x</option>
               <option value="Miguel">maria</option>
             </select>
