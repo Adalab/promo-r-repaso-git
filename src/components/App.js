@@ -124,8 +124,24 @@ function App() {
               <option value="Miguel">Miguel</option>
             </select>
           </label>
+          <label className="filters__text" htmlFor="counselor">
+            Escoge una alumna
+            <select
+              // onChange={handleChangeCounselorFilter}
+              // value={counselorFilter}
+              className="form__input-text"
+              name="counselor"
+              id="counselor"
+            >
+              <option value="">Todes</option>
+              <option value="Yanelis"maripuri</option>
+              <option value="Dayana">maricarmen</option>
+              <option value="Iván">x</option>
+              <option value="Miguel">maria</option>
+            </select>
+          </label>
         </form>
-
+        <p>Holaaaa maricarmenes</p>
         <section className="data">
           <table className="table">
             <thead>
