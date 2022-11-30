@@ -33,6 +33,11 @@ function App() {
     });
   };
 
+  const holaPerris = () => {
+    console.log('perris Adalabers');
+    
+  };
+
   const handleClickNewAdalaber = (ev) => {
     /*
     // Forma 1 de añadir objetos a un array en una variable estado
